@@ -1,18 +1,11 @@
-"Adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Akçay":
+  - firstname: ["Akçay", "Y.", "A. Y.", "Yalçın Akçay"]
+    url: https://mbs.edu/faculty-and-research/faculty/yalcin-akcay
 
-"Podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Boyacı":
+  - firstname: ["Boyacı", "T.", "B. T.", "Tamer Boyacı"]
+    url: https://faculty-research.esmt.berlin/person/tamer-boyaci/bio
 
-"Rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
-
-"Bach": 
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
-
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Casajus":
+  - firstname: ["Casajus", "A.", "André"]
+    url: https://home.uni-leipzig.de/casajus/
