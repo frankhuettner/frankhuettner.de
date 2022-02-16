@@ -1,11 +1,32 @@
+"André":
+  - firstname: ["Casajus", "A.", "André"]
+    url: https://home.uni-leipzig.de/casajus/
+
 "Akçay":
-  - firstname: ["Akçay", "Y.", "A. Y.", "Yalçın Akçay"]
+  - firstname: ["Yalçın"]
     url: https://mbs.edu/faculty-and-research/faculty/yalcin-akcay
 
 "Boyacı":
-  - firstname: ["Boyacı", "T.", "B. T.", "Tamer Boyacı"]
+  - firstname: ["Tamer"]
     url: https://faculty-research.esmt.berlin/person/tamer-boyaci/bio
 
-"Casajus":
-  - firstname: ["Casajus", "A.", "André"]
-    url: https://home.uni-leipzig.de/casajus/
+"Eric ":
+  - firstname: ["Eric"]
+    url: https://scholar.google.com/citations?user=znSHN2EAAAAJ&hl=en
+
+
+"Harald":
+  - firstname: ["Harald"]
+    url: https://www.wifa.uni-leipzig.de/institut-fuer-theoretische-volkswirtschaftslehre/professuren/mikrooekonomik
+
+"Marco":
+  - firstname: ["Marco"]
+    url: https://www.frankfurt-university.de/en/about-us/faculty-3-business-and-law/contacts-at-faculty-3/professors-at-faculty-3/marco-sunder/
+
+"Philippe":
+  - firstname: ["Philippe"]
+    url: https://www.gate.cnrs.fr/spip.php?article880&lang=fr
+
+"Sylvain":
+  - firstname: ["Sylvain"]
+    url: https://sites.google.com/site/bealpage/
