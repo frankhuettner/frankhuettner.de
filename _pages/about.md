@@ -14,13 +14,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-📧 info@frankhuettner.de
-
-[ORCID: 0000-0002-5489-1334](https://orcid.org/0000-0002-5489-1334)
-
-[GitHub](https://github.com/frankhuettner)
-
-🏢 
-International Hall #90409,
+Address: International Hall #90409,
 Sungkyunkwan University  25-2, Sungkyunkwan-ro, SKK GSB,
 Jongro-gu, Seoul, Korea 03063
+
+Email: info@frankhuettner.de
+
+ORCID: [0000-0002-5489-1334](https://orcid.org/0000-0002-5489-1334)
+
+GitHub: [https://github.com/frankhuettner](https://github.com/frankhuettner)
