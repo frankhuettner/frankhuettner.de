@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2022-02-16 
+date: 2022-02-17 
 inline: true
 ---
 
-I move my website to GitHub! :sparkles:
+I moved my website to GitHub! :sparkles:
