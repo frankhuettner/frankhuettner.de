@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://gsb.skku.edu/en/Faculty_Research/GSB_Faculty.do?mode=view&articleNo=72479'>Assistant Professor of Decision Sciences at SKK GSB</a>
+subtitle: "Job: <a href='https://gsb.skku.edu/en/Faculty_Research/GSB_Faculty.do?mode=view&articleNo=72479'>Assistant Professor of Decision Sciences</a>"
 
 profile:
   align: right
@@ -18,7 +18,6 @@ social: true  # includes social icons at the bottom of the page
 Sungkyunkwan University  25-2, Sungkyunkwan-ro, SKK GSB,
 Jongro-gu, Seoul, Korea 03063 -->
 
-Email: info@frankhuettner.de
 
 ORCID: [0000-0002-5489-1334](https://orcid.org/0000-0002-5489-1334)
 
