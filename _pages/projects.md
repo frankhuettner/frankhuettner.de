@@ -2,9 +2,9 @@
 layout: page
 title: code
 permalink: /projects/
-description: A collection of tools to which I contribute(d).
+description: A collection of tools to which I contribute(d)
 nav: true
-display_categories: 
+display_categories: [Python, Stata]
 horizontal: false
 ---
 
