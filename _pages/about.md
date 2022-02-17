@@ -22,4 +22,4 @@ Job: [Assistant Professor of Decision Sciences](https://gsb.skku.edu/en/Faculty_
 
 ORCİD: [0000-0002-5489-1334](https://orcid.org/0000-0002-5489-1334)
 
-GitHub: [https://github.com/frankhuettner](https://github.com/frankhuettner)
+GitHub: [frankhuettner](https://github.com/frankhuettner)
